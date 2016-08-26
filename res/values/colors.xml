@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="btns">#A73</color>
+    <color name="black">#000</color>
+    <color name="bg_choosed">#CDC1C5</color>
+    <color name="bg_unchoosed">#9C9C9C</color>
+	<color name="tab_text">#1A1A1A</color>
+</resources>

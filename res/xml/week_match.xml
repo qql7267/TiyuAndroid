@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<week_match>
+    
+    <match t1="亚特兰大老鹰" t2="波士顿凯尔特人" s1="--" s2="--">NBA</match>
+    <match t1="圣安东尼奥马刺" t2="孟菲斯灰熊" s1="--" s2="--">NBA</match>
+    <match t1="鲁昂" t2="利摩日" s1="45" s2="46">法甲</match>
+    <match t1="格拉芙来尼斯" t2="南锡" s1="40" s2="41">法甲</match>
+    <match t1="南特尔" t2="肖来特" s1="38" s2="45">法甲</match>
+    
+</week_match>

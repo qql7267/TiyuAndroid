@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zzxt>
+    
+    <group name="m1" >
+        <pic name="m1_1" cover="t">NBA-3巨头爆发轰81分 骑士1-0活塞</pic>
+        <pic name="m1_2" cover="f">NBA-3巨头爆发轰81分 骑士1-0活塞1</pic>
+        <pic name="m1_3" cover="f">NBA-3巨头爆发轰81分 骑士1-0活塞2</pic>
+    </group>
+    <group name="m2">
+        <pic name="m2_1" cover="t">跳水队合影搞怪不断 陈若琳发型抢镜</pic>
+        <pic name="m2_2" cover="f">跳水队合影搞怪不断 陈若琳发型抢镜1</pic>
+        <pic name="m2_3" cover="f">跳水队合影搞怪不断 陈若琳发型抢镜2</pic>
+    </group>
+    <group name="m3">
+        <pic name="m3_1" cover="t">新加坡羽毛球公开赛</pic>
+        <pic name="m3_2" cover="f">新加坡羽毛球公开赛1</pic>
+        <pic name="m3_3" cover="f">新加坡羽毛球公开赛2</pic>
+    </group>
+    
+</zzxt>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdjt>
+    <group name="p1">
+        <pic name="p1_1" cover="t">施瓦辛格跪着跟他合影</pic>
+        <pic name="p1_2" cover="f">施瓦辛格跪着跟他合影1</pic>
+        <pic name="p1_3" cover="f">施瓦辛格跪着跟他合影2</pic>
+    </group>
+    <group name="p2">
+        <pic name="p2_1" cover="t">中超-苏宁2-0申花</pic>
+        <pic name="p2_2" cover="f">中超-苏宁2-0申花1</pic>
+        <pic name="p2_3" cover="f">中超-苏宁2-0申花2</pic>
+    </group>
+</jdjt>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<day_match>
+    
+    <match t1="奥尔加兹拉" t2="棉农" s1="1" s2="3">亚冠杯</match>
+    <match t1="雷根斯堡" t2="温特哈兴" s1="1" s2="5">友谊赛</match>
+    <match t1="MO比捷亚" t2="扎马雷克" s1="1" s2="0">非冠杯</match>
+    <match t1="巴特里U20" t2="因弗内斯U20" s1="2" s2="0">苏青杯</match>
+    <match t1="佐加顿斯" t2="哈马比" s1="1" s2="3">瑞典超</match>
+    
+</day_match>
